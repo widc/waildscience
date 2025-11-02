@@ -117,23 +117,6 @@ V `style.css` upravte CSS proměnné na začátku:
 2. Přidejte odkaz do navigace
 3. Případně přidejte specifické styly do `style.css`
 
-## Updating Founding Document DOI
-
-Po publikaci na Figshare aktualizujte DOI:
-
-1. V `index.html` najděte:
-```html
-<a href="#" class="doc-link" target="_blank">
-    📄 wAIld Science: Rámec... (DOI: pending)
-</a>
-```
-
-2. Nahraďte:
-```html
-<a href="https://doi.org/10.XXXX/XXXX" class="doc-link" target="_blank">
-    📄 wAIld Science: Rámec... (DOI: 10.XXXX/XXXX)
-</a>
-```
 
 ## Licence
 
@@ -147,5 +130,6 @@ Kód: MIT License
 - GitHub: [github.com/widc/waildscience](https://github.com/widc/waildscience)
 
 ---
+
 
 Doména registrována do roku 2030
