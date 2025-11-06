@@ -77,7 +77,7 @@ a:hover {
 header {
     background: var(--dark-bg-secondary);
     border-bottom: 2px solid var(--border);
-    padding: 0.5rem 0;
+    padding: 1.5rem 0;
     position: sticky;
     top: 0;
     z-index: 100;
@@ -590,5 +590,6 @@ footer p {
     color: var(--text-muted);
     margin-bottom: 2rem;
 }
+
 
 
